@@ -1,4 +1,4 @@
-# 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+# 167. Two Sum II - Input array is sorted
 
 ----
 ## Related topic
